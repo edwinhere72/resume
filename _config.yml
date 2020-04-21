@@ -54,8 +54,10 @@ roles:
    start: 2018
    end: Ongoing
    employer: DCYF
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+   description: •	Currently leading 10 software developers that includes 3 agile development teams.
+   •	Provide technical leadership to the development team of agile software developers to create, maintain, and enhance diverse software application system.
+   •	Work closely with the Product/Business teams in defining the software development plan in meeting the product vision
+
    start: 2016
    end: 2017
    employer: Emerald Street Ventures
