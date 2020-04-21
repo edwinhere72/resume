@@ -76,8 +76,19 @@ roles:
    start: 2016
    end: 2018
    employer: DSHS
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
+   description: DSHS Children's Administration is the public child welfare agency for the state of Washington. As an IT Supervisor, this position specializes in supporting the mission-critical applications that support CA’s vision of ending child abuse and neglect. 
+   •	Provide line management and development of a team of 10 software developers. 
+   •	Lead all efforts surrounding DSHS Children’s Administration designing, develop, implements complex software applications and test changes to application subsystems. 
+   •	Responsible to work with improvements, by participation in the development, of the architectural principles, processes and standards
+   •	Mentor and monitor the work of others to ensure development standards in design and technique is followed and technical documentation is prepared
+   •	Acted as lead decision maker on final incident resolution of application issues
+   •	Prioritize and manage workload to meet deadlines. Ensure timelines, expectations, and deliverables and that the team(s) involved are held accountable to these expectations
+   •	Manage day to day performance and operation of the development team
+   •	Coordinate acceptance testing with partners of modified programs, analyzing test results to ensure accuracy and completeness
+   •	Perform periodic and annual performance reviews for all team members. 
+   •	Develop performance improvement plans for team members who have performance issues
+ 
+ - title: Lead Software Developer
    start: 2015
    end: 2016
    employer: DSHS
