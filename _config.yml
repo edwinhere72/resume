@@ -111,12 +111,7 @@ github:
  - robhinds/opinionated-akka-http
  - robhinds/food2vec
  - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
+ 
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/258813/rhinds
