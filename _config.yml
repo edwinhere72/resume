@@ -24,15 +24,15 @@ primarylinks:
 skills:
  - C#
  - ASP.NET MVC
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
+ - .NET technology
+ - Entity Framework
+ - Restful Web Apis
+ - WCF
+ - SOAP
+ - HTML5
+ - CSS3
+ - Bootstrap
+ - JavaScript
  - SQL
  - REST
  - Technical Architecture
