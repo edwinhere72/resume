@@ -151,11 +151,11 @@ roles:
        queries to create, combine, delete, update and data migration to the new database. www.mrscrosters.org </br>
      •	Responsible for migrating registration pages to RegOnline using Web APIs, Windows Communication Foundation, ASP.NET, XML, C#. </br>
    
-  - title: Software Developer
-    start: 2007
-    end: 2010
-    employer: MRSC
-    description: xxxx </br>
+ - title: Software Developer
+   start: 2007
+   end: 2010
+   employer: EHB Digital
+   description: xxxx </br>
   
 #Education is required
 education:
