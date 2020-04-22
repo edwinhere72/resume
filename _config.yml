@@ -131,7 +131,10 @@ roles:
    start: 2011
    end: 2014
    employer: MRSC
-   description: Developed, maintained, and tested new and/or existing web-based applications and database systems. Coordinated designed and implemented applications, collaborating with project managers and stakeholders to ensure on-time completion of project deliverables. Developed overall project architecture and database. Designed Web applications and maintained content for .NET based ystems. </br>
+   description: Developed, maintained, and tested new and or existing web-based applications and database systems. Coordinated designed
+   and implemented applications, collaborating with project managers and stakeholders to ensure on-time completion of project 
+   deliverables. Developed overall project architecture and database. Designed Web applications and maintained content for .NET based
+   systems. </br>
    •	In charge of the mission’s entire in-house software development. </br>
    •	Front-end development utilizing HTML5, CSS3 and JavaScript leveraging the Bootstrap framework and a .NET / SQL backend. </br>
    •	Led the design, development and testing for the e-commerce website for the MRSC Publications using ASP.NET, C#, SQL Server, HTML, 
