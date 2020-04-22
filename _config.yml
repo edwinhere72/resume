@@ -158,10 +158,23 @@ roles:
    description: Worked as a software developer for IT staffing agencies and freelance IT consultant to help businesses in analyzing, implementing and evaluating IT projects to meet performance expectations.
        Ability to explain complex technical issues in a non-technical manner </br>
        •	Involved in gathering the requirements, analysis, design and development of the project. </br>
-       •	HTML, CSS, JavaScript, JAVA, C#, PHP backend and MySQL for dynamic database driven websites, WordPress and Drupal front-end development for dynamic database-driven websites. </br>
+       •	HTML / CSS / JavaScript, JAVA, C#, PHP backend and MySQL for dynamic database driven websites, WordPress and Drupal front-end development for dynamic database-driven websites. </br>
        •	Developed wireframes, interface mockups and page prototypes </br>
        •	Maintained consistency and compatibility of UX across browsers and services </br>
        •	Developed RFP responses, proposals and cost estimates. </br>
+       
+ - title: Application Developer
+   start: 2003
+   end: 2007
+   employer: US Bank
+   description: •	Participate in designing, coding, testing, implementation and documentation of solutions. </br>
+       •	Develop, test, implement and support of application systems. </br>
+       •	Participate in the definition of project tasks. </br>
+       •	Participate in investigation, analysis, and resolution of technical problems related to system functions, programming and procedures </br>
+       •	Performed unit testing, system testing and user acceptance test. </br>
+       •	Software development support for enhancement of Web applications accessed by 12 million users. </br>
+         Technology used in all projects HTML, CSS, JavaScript, XML, C#, .NET, SQL Server
+
 
   
 #Education is required
