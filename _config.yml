@@ -79,13 +79,14 @@ roles:
        assignments</li>
    <li>Expertise and strength in hiring, leading and growing talent within teams, and help build vision that facilities organizational
        growth.</li>
-   
+   </ul>
  - title: Application Development Supervisor
    start: 2016
    end: 2018
    employer: DSHS
    description: DSHS Children's Administration is the public child welfare agency for the state of Washington. As an IT Supervisor, 
     this position specializes in supporting the mission-critical applications that support CA’s vision of ending child abuse and neglect. 
+   <ul>
    <li>Provide line management and development of a team of 10 software developers. </li>
    <li>Lead all efforts surrounding DSHS Children’s Administration designing, develop, implements complex software applications and
        test changes to application subsystems. </li>
@@ -100,6 +101,7 @@ roles:
    <li>Coordinate acceptance testing with partners of modified programs, analyzing test results to ensure accuracy and completeness </li>
    <li>Perform periodic and annual performance reviews for all team members. </li>
    <li>Develop performance improvement plans for team members who have performance issues </li>
+   </ul>
  
  - title: Lead Software Developer
    start: 2015
