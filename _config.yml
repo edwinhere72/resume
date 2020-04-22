@@ -152,10 +152,10 @@ roles:
      •	Responsible for migrating registration pages to RegOnline using Web APIs, Windows Communication Foundation, ASP.NET, XML, C#. </br>
    
   - title: Software Developer
-  start: 2010
-  end: 2007
-  employer: MRSC
-  description: xxxx </br>
+    start: 2010
+    end: 2007
+    employer: MRSC
+    description: xxxx </br>
   
 #Education is required
 education:
