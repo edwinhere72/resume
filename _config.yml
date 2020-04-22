@@ -194,16 +194,16 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/5d9d2f5af8b6f152c7f415081146da7e
    courses:
-    - title: Functional Programming Principles in Scala
+    - title: Agile Planning for Software Products
       link: https://www.coursera.org/course/progfun
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
+      date: May 21, 2019
+    - title: Client Needs and Software Requirements
       link: https://www.coursera.org/specializations/algorithms
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      date: April 28, 2019
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -221,9 +221,7 @@ speakerdeck:
 github:
  - robhinds/robhinds.github.io
  - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
+ 
  
 #Stackoverflow flair is optional
 stackoverflow:
