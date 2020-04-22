@@ -228,7 +228,7 @@ speakerdeck:
 #List of interesting Github repo/projects to include - optional
 github:
  - https://github.com/edwinhere72/NorthwindTraderProject
- - https://github.com/edwinhere72/MyLinkedList
+ #- https://github.com/edwinhere72/MyLinkedList
  
  
 #Stackoverflow flair is optional
