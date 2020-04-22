@@ -197,13 +197,21 @@ coursera:
    profileurl: https://www.coursera.org/user/5d9d2f5af8b6f152c7f415081146da7e
    courses:
     - title: Agile Planning for Software Products
-      link: https://www.coursera.org/course/progfun
+      link: https://www.coursera.org/learn/agile-planning-for-software-products
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: May 21, 2019
     - title: Client Needs and Software Requirements
-      link: https://www.coursera.org/specializations/algorithms
+      link: https://www.coursera.org/learn/client-needs-and-software-requirements
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2019
+    - title: Software Processes and Agile Practices
+      link: https://www.coursera.org/learn/software-processes-and-agile-practices
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: March 19, 2019
+    - title: Continuous Delivery & DevOps
+      link: https://www.coursera.org/learn/uva-darden-continous-delivery-devops
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: March 24, 2019
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
