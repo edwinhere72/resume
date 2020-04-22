@@ -73,25 +73,33 @@ roles:
    <li>Work with continuous Integration and Continuous deployment pipeline (CI/CD) using VSTS.<li>
    <li>Set technical standards and practices, including technical design and review process, coding standards, and code reviews.<li>
    <li>Identified complex business problems and resolved technical issues.<li>
-   <li>Regularly communicates the status of application development to all impacted stakeholders, set expectations and manage team members<br/>
-   <li>Strong working knowledge of management principles in order to mentor and lead staff toward the successful completion of assignments<br/>
-   <li>Expertise and strength in hiring, leading and growing talent within teams, and help build vision that facilities organizational growth. <br/>
+   <li>Regularly communicates the status of application development to all impacted stakeholders, set expectations and manage team 
+       members</li>
+   <li>Strong working knowledge of management principles in order to mentor and lead staff toward the successful completion of 
+       assignments</li>
+   <li>Expertise and strength in hiring, leading and growing talent within teams, and help build vision that facilities organizational
+       growth.</li>
    
  - title: Application Development Supervisor
    start: 2016
    end: 2018
    employer: DSHS
-   description: DSHS Children's Administration is the public child welfare agency for the state of Washington. As an IT Supervisor, this position specializes in supporting the mission-critical applications that support CA’s vision of ending child abuse and neglect. 
-   •	Provide line management and development of a team of 10 software developers. 
-   •	Lead all efforts surrounding DSHS Children’s Administration designing, develop, implements complex software applications and test changes to application subsystems. 
-   •	Responsible to work with improvements, by participation in the development, of the architectural principles, processes and standards
-   •	Mentor and monitor the work of others to ensure development standards in design and technique is followed and technical documentation is prepared
-   •	Acted as lead decision maker on final incident resolution of application issues
-   •	Prioritize and manage workload to meet deadlines. Ensure timelines, expectations, and deliverables and that the team(s) involved are held accountable to these expectations
-   •	Manage day to day performance and operation of the development team
-   •	Coordinate acceptance testing with partners of modified programs, analyzing test results to ensure accuracy and completeness
-   •	Perform periodic and annual performance reviews for all team members. 
-   •	Develop performance improvement plans for team members who have performance issues
+   description: DSHS Children's Administration is the public child welfare agency for the state of Washington. As an IT Supervisor, 
+    this position specializes in supporting the mission-critical applications that support CA’s vision of ending child abuse and neglect. 
+   <li>Provide line management and development of a team of 10 software developers. </li>
+   <li>Lead all efforts surrounding DSHS Children’s Administration designing, develop, implements complex software applications and
+       test changes to application subsystems. </li>
+   <li>Responsible to work with improvements, by participation in the development, of the architectural principles, processes and
+       standards </li>
+   <li>Mentor and monitor the work of others to ensure development standards in design and technique is followed and technical 
+       documentation is prepared </li>
+   <li>Acted as lead decision maker on final incident resolution of application issues </li>
+   <li>Prioritize and manage workload to meet deadlines. Ensure timelines, expectations, and deliverables and that the team(s) involved
+       are held accountable to these expectations </li>
+   <li>Manage day to day performance and operation of the development team </li>
+   <li>Coordinate acceptance testing with partners of modified programs, analyzing test results to ensure accuracy and completeness </li>
+   <li>Perform periodic and annual performance reviews for all team members. </li>
+   <li>Develop performance improvement plans for team members who have performance issues </li>
  
  - title: Lead Software Developer
    start: 2015
