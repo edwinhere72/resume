@@ -232,9 +232,9 @@ github:
  
  
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+#   profileurl: https://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: 
   Solution Architect and Full-stack developer with leading experience. Expertise in all phases of software development with an in-depth knowledge of architecture, agile methodologies, design patterns and object-oriented principles. Passionate about building applications from the ground up, enhancing existing systems for sustainability or meeting business needs through integration purposes. 
