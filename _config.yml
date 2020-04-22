@@ -178,9 +178,9 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 2012
+   subject: Information System Management 
+   school: City University of Seattle
 
 #This section is optional (as is the image link below)
 coursera:
