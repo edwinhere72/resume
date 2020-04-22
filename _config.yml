@@ -70,22 +70,65 @@ roles:
       •	Work with continuous Integration and Continuous deployment pipeline (CI/CD) using VSTS. </br>
       •	Set technical standards and practices, including technical design and review process, coding standards, and code reviews. </br>
       •	Identified complex business problems and resolved technical issues. </br>
-
+      •	Regularly communicates the status of application development to all impacted stakeholders, set expectations and manage team members </br>
+      •	Strong working knowledge of management principles in order to mentor and lead staff toward the successful completion of assignments </br>
+      •	Expertise and strength in hiring, leading and growing talent within teams, and help build vision that facilities organizational growth. </br> 
 
  - title: Application Development Supervisor
    start: 2016
    end: 2018
    employer: DSHS
    description: DSHS Children's Administration is the public child welfare agency for the state of Washington. As an IT Supervisor, 
-    this position specializes in supporting the mission-critical applications that support CA’s vision of ending child abuse and neglect. 
-  
+    this position specializes in supporting the mission-critical applications that support CA’s vision of ending child abuse and neglect. </br>
+    •	Provide line management and development of a team of 10 software developers. </br>
+    •	Lead all efforts surrounding DSHS Children’s Administration designing, develop, implements complex software applications and test changes to application subsystems. </br>
+    •	Responsible to work with improvements, by participation in the development, of the architectural principles, processes and standards </br>
+    •	Mentor and monitor the work of others to ensure development standards in design and technique is followed and technical documentation is prepared </br>
+    •	Acted as lead decision maker on final incident resolution of application issues </br>
+    •	Prioritize and manage workload to meet deadlines. Ensure timelines, expectations, and deliverables and that the team(s) involved are held accountable to these expectations </br>
+    •	Manage day to day performance and operation of the development team </br>
+    •	Coordinate acceptance testing with partners of modified programs, analyzing test results to ensure accuracy and completeness </br>
+    •	Perform periodic and annual performance reviews for all team members. </br>
+    •	Develop performance improvement plans for team members who have performance issues </br>  
  
  - title: Lead Software Developer
    start: 2015
    end: 2016
    employer: DSHS
    description: This role required strong development expertise, domain proficiency, platform depth, and leadership. Project highlights
-      included
+      included </br>
+    •	FamLink – 24x7 Washington’s statewide automated child welfare system serving approximately 2600 social workers and staff, and 
+      tracking approximately 200,000 families within the system. As a lead software developer, I am responsible for the maintenance of
+      the system and data fixes.  Many changes being legislatively driven must be implemented within a certain amount of time. </br>
+    •	FamLink Pro – Enhancement project providing responsive technologies to the FamLink system.
+      Starting with the Child Health & Education Tracking (CHET) module and using the agile scrum development methodology, 
+      this position is responsible to build the system from scratch in a responsive web design application to serve as a model for
+      the rest of the new system to replace the FamLink system. CHET will be able to assign cases to social workers and supervisors
+      who can then work on their cases and save their work online and offline The CHET program is divided into five different 
+      domains. Technologies used to develop this software include .NET MVC, Owin authentication, Restful Web Apis, Entity Framework,
+      SQL Queries, C#, Stored Procedures, Ajax, JQuery, AngularJS, front end technologies Bootstrap, CSS, Html, Razor. </br>
+    •	Discovery Tool – Led a team of software developers in an agile environment to develop and design a new software application named
+      Discovery Tool to help social workers find cases in different databases using advanced searchable interfaces. The application 
+      generates dynamic online views for desktop and mobile devices and generates reports using SSRS. Technologies used to develop 
+      this application included .NET MVC, Restful Web Apis, Entity Framework, C#, Stored Procedures, SQL Server, Log4NET, TFS,
+      Bootstrap, Razor, JavaScript, Ajax, JQuery. </br>
+    •	Employee Directory – Developed an employee directory for DSHS Children’s Administration to provide a searchable interface of
+      current employees. The source of the information is from Microsoft Active Directory. Technologies using to develop this 
+      application included a responsive web design, .NET MVC, Bootstrap, C#, SOAP, EF, JQuery, SQL Stored Procedures. </br>
+    •	Foster Parent Portal – Developed a portal for foster parents to register and download our mobile foster kid application created
+      in Xamarin. Through the registration, the system creates a new account in MassS360 Mobile device management. Technologies using
+      to develop this application included a responsive web design, RESTful APIs, .NET MVC, Entity Framework, Bootstrap, C#, Ajax, 
+      JQuery, SQL. </br>
+      In all projects </br>
+    •	Worked collaboratively with business analysts, solution leads, database administrators, testers and architects to design, 
+      develop, test and implement applications using .NET technologies. </br>
+    •	Performed all aspects of the software development life-cycle including analysis, planning, design, development, testing, quality
+      assurance, deployment, maintenance, troubleshooting and/or problem resolution tasks of complex business web-based applications
+      using .NET technologies, responsive web design patterns and SQL Server. </br>
+    •	All these projects were created fully in-house saving millions of dollars of taxpayers </br>
+
+
+
 
  - title: Associate Manager
    start: 2005
