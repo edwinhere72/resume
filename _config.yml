@@ -178,9 +178,19 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2002
+   date: 2012
    subject: Information System Management 
    school: City University of Seattle
+   
+ - level: Bachelor of Science (B.Sc.)
+   date: 2008
+   subject: Computer and Software Systems 
+   school: University of Washington
+   
+ - level: Associate of Science (A.S.)
+   date: 2006
+   subject: Computer Science
+   school: Renton Technical College
 
 #This section is optional (as is the image link below)
 coursera:
