@@ -227,7 +227,7 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - edwinhere72/NorthwindTraderProject
+ - https://github.com/edwinhere72/NorthwindTraderProject
  #- robhinds/ScaLambda
  
  
