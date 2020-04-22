@@ -127,14 +127,28 @@ roles:
       using .NET technologies, responsive web design patterns and SQL Server. </br>
     •	All these projects were created fully in-house saving millions of dollars of taxpayers </br>
 
-
-
-
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+ - title: Senior Software Developer
+   start: 2011
+   end: 2014
+   employer: MRSC
+   description: Developed, maintained, and tested new and/or existing web-based applications and database systems. Coordinated designed 
+   and implemented applications, collaborating with project managers and stakeholders to ensure on-time completion of project 
+   deliverables. Developed overall project architecture and database. Designed Web applications and maintained content for .NET based 
+   systems. </br>
+   •	In charge of the mission’s entire in-house software development. </br>
+   •	Front-end development utilizing HTML5, CSS3 and JavaScript leveraging the Bootstrap framework and a .NET / SQL backend. </br>
+   •	Led the design, development and testing for the e-commerce website for the MRSC Publications using ASP.NET, C#, SQL Server, HTML, 
+     Adobe Photoshop, CSS, JavaScript and CyberSource APIs to secure online transactions. </br>
+   •	Designed and developed a full responsive intranet page for the use of the employees. </br>
+   •	Led a team to redesign and iterate user experience by designing and implementing new modules and interfaces in a complex, 
+     responsive site. www.mrsc.org/home.aspx </br>
+   •	Developed and designed a database search page using ASP.NET, C#, SQL Server, JavaScript, Ajax, HTML and other front end and
+     middle-tire technologies. The page includes different search criteria to find election results for all the cities, counties and 
+     jurisdictions in the state of Washington. </br>
+   •	Redesigned and implemented a new database for the MRSC rosters based on new business requirements. The roster is an online shared 
+     database service hosting individual agency business list/application. This project involved working with SQL Server, T-SQL and 
+     queries to create, combine, delete, update and data migration to the new database. www.mrscrosters.org </br>
+   •	Responsible for migrating registration pages to RegOnline using Web APIs, Windows Communication Foundation, ASP.NET, XML, C#. </br>
 
 #Education is required
 education:
